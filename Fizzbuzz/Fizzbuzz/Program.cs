@@ -26,10 +26,10 @@ namespace Fizzbuzz
                 }
                 else
                 {
-                    Console.WriteLine(i);
+                    Console.WriteLine(i); 
                 }
             }
-            Console.ReadKey();
+            Console.ReadKey(); // Cal's comment - Stops program from ending. 
         }
     }
 }
