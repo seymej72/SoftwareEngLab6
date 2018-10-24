@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Fizzbuzz
 {
-    class Program
+    class Program //This is our Fizzbuzz program
     {
         static void Main(string[] args)
         {
